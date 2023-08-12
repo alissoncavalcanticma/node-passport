@@ -1,19 +1,19 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="node-email-api" />
+  <img src="./.github/app.gif" alt="node-passport" />
 
   &#xa0;
 </div>
 
-<h1 align="center">node-email-api</h1>
+<h1 align="center">node-passport</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/alissoncavalcanticma/node-email-api?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/alissoncavalcanticma/node-passport?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/alissoncavalcanticma/node-email-api?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/alissoncavalcanticma/node-passport?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/alissoncavalcanticma/node-email-api?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/alissoncavalcanticma/node-passport?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/alissoncavalcanticma/node-email-api?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/alissoncavalcanticma/node-passport?color=56BEB8">
 
 </p>
 
@@ -30,7 +30,7 @@
 
 ## :dart: About ##
 
-Projeto usado na aula de envio de e-mail do curso de NodeJS da B7Web
+Projeto usado na aula da lib Passport do curso de NodeJS da B7Web
 
 ## :rocket: Technologies ##
 
@@ -47,10 +47,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/alissoncavalcanticma/node-email-api
+$ git clone https://github.com/alissoncavalcanticma/node-passport
 
 # Access
-$ cd node_auths
+$ cd node-passport
 
 # Install dependencies
 $ npm i
