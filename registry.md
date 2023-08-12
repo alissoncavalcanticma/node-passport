@@ -7,8 +7,23 @@
 
 ####  Para ...:
 
- - Instalando a lib
-    `npm i `
+  - Instalando a lib passport
+    `npm i passport`
 
       - Instalando suporte ao typescript para a lib:
-        `npm i -D @types/`
+        `npm i -D @types/passport`
+
+  - Instalando a lib passport-http
+    `npm i passport-http`
+
+      - Instalando suporte ao typescript para a lib
+        `npm i -D @types/passport-http`
+
+
+####Instruções:
+
+ - Importar lib no server
+ - Inicializar ele antes da definição das rotas com:
+  `server.use(passport.initialize());`
+ - Criar pasta no path src com nome 'config' para fazer a configuração do passport
+ - Criar arquivo passport.ts, onde irá conter toda a configuração do passport 
