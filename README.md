@@ -4,7 +4,7 @@
   &#xa0;
 </div>
 
-<h1 align="center">node-passport</h1>
+<h1 align="center">node-passport for basic authenticate</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/alissoncavalcanticma/node-passport?color=56BEB8">
